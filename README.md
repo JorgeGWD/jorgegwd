@@ -1,4 +1,4 @@
-### Hi there 👋
+## Jorge Graphic & Web Designer
 
 Hi I'm **Jorge Rodríguez**, I've been working as **Developer and Web Designer** since **2010**, exercising with great enthusiasm my work with different companies and in a freelance manner.
 
