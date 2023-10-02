@@ -1,6 +1,6 @@
 ## Jorge Graphic & Web Designer
 
-Hi I'm **Jorge Rodríguez**, I've been working as **Developer and Web Designer** since **2010**, exercising with great enthusiasm my work with different companies and in a freelance manner.
+Hi, I'm **Jorge Rodríguez**, I've been working as a **Developer and Web Designer** since **2010**, exercising with great enthusiasm my work with different companies and in a freelance manner.
 
 I have had to develop some projects from scratch and others already started, as well as redesign some already finished, always looking to **implement new tools and technologies** that allow me to obtain **the best result**.
 
