@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jorge Rodriguez, Graphic & Web Designer</h1>
+<h1>Hi 👋, I'm Jorge Rodriguez, Frontend Developer focused on React, Next.js and TypeScript.</h1>
 
 I am a frontend developer with experience in creating web and mobile applications, using JavaScript as the main technology. I have worked on projects for various industries, including real estate, e-commerce, and education, both in internal roles within companies and in freelance projects.
 
