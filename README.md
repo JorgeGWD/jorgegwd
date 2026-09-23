@@ -10,7 +10,6 @@ I have experience across different types of products and industries, including e
 
 I value clear code, practical solutions and good collaboration. I’m particularly interested in product-oriented teams where frontend development is closely connected to real user and business needs.
 
-🌐 **Portfolio:** [jorgegwd.vercel.app](https://jorgegwd.vercel.app/)
 
 ---
 
@@ -59,15 +58,11 @@ I value clear code, practical solutions and good collaboration. I’m particular
 - Developing web and mobile experiences with React Native.
 - Working with product and development teams to turn requirements into practical solutions.
 
+
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGWD&theme=dark&hide_border=false&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeGWD&show_icons=true&hide_border=true&theme=dark)](https://github.com/JorgeGWD)
 
----
-
-## 📫 Contact
-
-🌐 [Portfolio](https://jorgegwd.vercel.app/)  
-💻 [GitHub](https://github.com/JorgeGWD)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGWD&layout=compact&hide_border=true&theme=dark)](https://github.com/JorgeGWD)
